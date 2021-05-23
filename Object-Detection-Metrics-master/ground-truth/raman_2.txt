@@ -1,0 +1,5 @@
+cancer 706 1 911 2
+cancer 960 1 1144 2
+cancer 1162 1 1345 2
+cancer 1616 1 1746 2
+cancer 2807 1 3106 2
